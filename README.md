@@ -1,5 +1,3 @@
-
-```markdown
 # JavaAIScript
 
 JavaAIScript is a JavaScript module for analyzing JavaScript code and suggesting fixes to align it with Java concepts using ChatGPT.
